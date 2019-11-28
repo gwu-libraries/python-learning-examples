@@ -24,6 +24,13 @@ If you are interested in becoming a peer instructor and helping your friends lea
 # Getting Started
 This use of Juptyer Notebooks is based on Prof. Barba's course [Getting Data Off the Ground with Python](https://openedx.seas.gwu.edu/courses/course-v1:GW+EngComp1+2018/about).  And her [introductory modules (1 thru 3)](https://github.com/engineersCode/EngComp1_offtheground/tree/master/notebooks_en) are a great starting place for students who have not used Python at all.  They start out with writing your first lines of code and take you to the point where you can import short fragments of text to learn about strings.  With those foundations, any student should be ready for the beginner modules included in this repository.
 
+# Modules
+
+| Directory  | Topic       | Level |
+| :-----------: | :-----------------: | :-----------------: |
+| ML-titanic  | Machine learning with titanic survivors      | Beginner |
+| Webscraper    | Scrape a website to collect data      | Beginner |
+| social-network-analysis-actors     | Explore the relationships among actors | Beginner |
 
 # What is Jupyter?
 Jupyter is a set of open-source tools for interactive computing. At the center of the Jupyter world is the Notebook: a document that combines text and multi-media content with executable code. It is a powerful platform to learn computing because it lets you chunk a program into small, digestible portions, and intermix these with narration and explanation. It is also becoming the staple environment to develop ideas and present finished analyses in data science and engineering.
