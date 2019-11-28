@@ -23,5 +23,14 @@ Jupyter is a set of open-source tools for interactive computing. At the center o
 # What does it mean that the course materials are open?
 It means that the authors of all the materials available here give everyone in the world a license to use the material in any way, to redistribute, modify and essentially do whatever they like with it. The only condition is that we are given attribution. Content is under a Creative Commons CC-BY 4.0 International license and code is under a BSD 3-clause license.
 
+# GW Project Partners
+- GW Data Club
+- SEAS Innovation Center
+- GSEHD 
+- SEAS 
+- B-School Career Center
+- Innovation & Entrepreneurship Lab
+- GW Libraries and Academic Innovation
+- Our peer instructors (coming in January 2020).
 
 
