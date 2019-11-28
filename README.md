@@ -3,14 +3,18 @@ Python notebooks -- discipline-based examples
 
 Let's use folders for each notebook.  This way, each notebook can optionally be accompanied by its own README.md
 
-
+<img src="/GW-python-logo-v1.png" alt="GW Python Logo"
+	title="GW Python Logo" width="200" height="198" />
+  
 # Introduction
 The project-based learning modules included in this repository for designed as short introductions into how Python can be used accomplish interesting things. From scraping the web to collect information on elections to using machine learning to explore historical events, Python can be a valuable tool for students, researchers, faculty, and others as they solve problems, invent to technologies, or just have fun with data.  This is as true if you are political science or psychology major, as it is if you are in engineering or business.  We have therefore tried to create modules that are applicable to the interest of many diverse students so that everyone can find projects that are interest to them. 
 
 The current modules are drafts and if you have ideas for improving, please create branch and add your edits. We will continue to add more modules and you can add modules too.
 
 # Peer Instruction
-The modules have been developed to provide peer instructors with practical content that they can use to help their fellow students learn Python. Some modules are for beginners, while other are for more advanced Python coders, but they are written as Juptyer Notebooks so students should be able to jump write in and start coding. If you are interested in becoming a peer instructor and helping your friends learn Python, let us know and you can attend a short training on how to use the modules as the foundation for peer tutorials.   
+The modules have been developed to provide peer instructors with practical content that they can use to help their fellow students learn Python. Some modules are for beginners, while other are for more advanced Python coders, but they are written as Juptyer Notebooks so students should be able to jump write in and start coding. If you are interested in becoming a peer instructor and helping your friends learn Python, let us know and you can attend a short training on how to use the modules as the foundation for peer tutorials. 
+
+
 
 
 # Getting Started
