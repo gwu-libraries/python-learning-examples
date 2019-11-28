@@ -14,7 +14,7 @@ The modules have been developed to provide peer instructors with practical conte
 
 
 # Getting Started
-This use of Juptyer Notebooks is based on Prof. Barba's course [Getting Data Off the Ground with Python](https://openedx.seas.gwu.edu/courses/course-v1:GW+EngComp1+2018/about).  Ander [introductory modules (1 thru 3)](https://github.com/engineersCode/EngComp1_offtheground/tree/master/notebooks_en) are a great starting place for students who have not used Python at all.  They start out with writing your first lines of code and take you to the point where you can import short fragments of text to learn about strings.  With those foundations, any student should be ready for the beginner modules included in this repository.
+This use of Juptyer Notebooks is based on Prof. Barba's course [Getting Data Off the Ground with Python](https://openedx.seas.gwu.edu/courses/course-v1:GW+EngComp1+2018/about).  And her [introductory modules (1 thru 3)](https://github.com/engineersCode/EngComp1_offtheground/tree/master/notebooks_en) are a great starting place for students who have not used Python at all.  They start out with writing your first lines of code and take you to the point where you can import short fragments of text to learn about strings.  With those foundations, any student should be ready for the beginner modules included in this repository.
 
 
 # What is Jupyter?
