@@ -9,13 +9,17 @@ Let's use folders for each notebook.  This way, each notebook can optionally be 
 # Introduction
 The project-based learning modules included in this repository for designed as short introductions into how Python can be used accomplish interesting things. From scraping the web to collect information on elections to using machine learning to explore historical events, Python can be a valuable tool for students, researchers, faculty, and others as they solve problems, invent to technologies, or just have fun with data.  This is as true if you are political science or psychology major, as it is if you are in engineering or business.  We have therefore tried to create modules that are applicable to the interest of many diverse students so that everyone can find projects that are interest to them. 
 
+The modules are intended to be used for small group (or pair) learning situations. This way someone with more Python experience can help those newer to Python pick up skills more quickly.  You could use them for individual self-paced learning, but there are also many (many) other resources online for that purpose.
+
 The current modules are drafts and if you have ideas for improving, please create branch and add your edits. We will continue to add more modules and you can add modules too.
 
 # Peer Instruction
-The modules have been developed to provide peer instructors with practical content that they can use to help their fellow students learn Python. Some modules are for beginners, while other are for more advanced Python coders, but they are written as Juptyer Notebooks so students should be able to jump write in and start coding. If you are interested in becoming a peer instructor and helping your friends learn Python, let us know and you can attend a short training on how to use the modules as the foundation for peer tutorials. 
+The modules have been developed to provide peer instructors with practical content that they can use to help their fellow students learn Python. Some modules are for beginners, while other are for more advanced Python coders, but they are written as Juptyer Notebooks so students should be able to jump write in and start coding. 
 
 <img src="/GW-python-peer-logo-v1.png" alt="GW Python Peer Logo"
 	title="GW Python Peer Logo" width="200" height="200" />
+	
+If you are interested in becoming a peer instructor and helping your friends learn Python, let us know and you can attend a short training on how to use the modules as the foundation for peer tutorials. You can lead a peer-instruction event whenever you want, and where ever you want. If you could use a place (for example, at the library or the GW Innovation & Entrepeneurship Lab) just contact us (*email coming soon*)
 
 # Getting Started
 This use of Juptyer Notebooks is based on Prof. Barba's course [Getting Data Off the Ground with Python](https://openedx.seas.gwu.edu/courses/course-v1:GW+EngComp1+2018/about).  And her [introductory modules (1 thru 3)](https://github.com/engineersCode/EngComp1_offtheground/tree/master/notebooks_en) are a great starting place for students who have not used Python at all.  They start out with writing your first lines of code and take you to the point where you can import short fragments of text to learn about strings.  With those foundations, any student should be ready for the beginner modules included in this repository.
