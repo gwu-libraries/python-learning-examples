@@ -1,7 +1,7 @@
 
 # GW:[Python]
 Learning Python through projects
- <img align="left" src="/GW-python-logo-v1.png" alt="GW Python Logo"
+ <img align="left" src="/images/GW-python-logo-v1.png" alt="GW Python Logo"
 	title="GW Python Logo" width="200" height="198" />
   
 # Introduction
@@ -14,7 +14,7 @@ The current modules are drafts and if you have ideas for improving, please creat
 # Peer Instruction
 The modules have been developed to provide peer instructors with practical content that they can use to help their fellow students learn Python. Some modules are for beginners, while other are for more advanced Python coders, but they are written as Juptyer Notebooks so students should be able to jump write in and start coding. 
 
-<img align="right" src="/GW-python-peer-logo-v1.png" alt="GW Python Peer Logo"
+<img align="right" src="/images/GW-python-peer-logo-v1.png" alt="GW Python Peer Logo"
 	title="GW Python Peer Logo" width="200" height="200" />
 	
 If you are interested in becoming a peer instructor and helping your friends learn Python, let us know and you can attend a short training on how to use the modules as the foundation for peer tutorials. You can lead a peer-instruction event whenever you want, and where ever you want. If you could use a place (for example, at the library or the GW Innovation & Entrepeneurship Lab) just contact us (*email coming soon*)
