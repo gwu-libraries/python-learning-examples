@@ -91,10 +91,10 @@ div.text_cell_render{
     font-size: 100%;
     line-height: 120%;
     text-align: left;
-    width:500px;
+  /*  width:500px; */
     margin-top: 1em;
     margin-bottom: 2em;
-    margin-left: 80pt;
+    margin-left: 10pt;
     font-style: regular;
 }
 
