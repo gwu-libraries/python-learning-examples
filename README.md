@@ -39,7 +39,7 @@ It means that the authors of all the materials available here give everyone in t
 # GW Project Partners
 - GW Data Club
 - SEAS Innovation Center
-- GSEHD 
+- <a href="https://gwu.edu/" target="_blank">GSEHD</a>
 - SEAS 
 - B-School Career Center
 - Innovation & Entrepreneurship Lab
