@@ -1,6 +1,6 @@
 
 # GW:[Python]
-## Learning Python through projects
+### Learning Python through projects
  <img align="left" src="/images/GW-python-logo-v1.png" alt="GW Python Logo"
 	title="GW Python Logo" width="200" height="198" />
   
