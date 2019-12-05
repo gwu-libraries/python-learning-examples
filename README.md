@@ -1,6 +1,6 @@
 
 # GW:[Python]
-Learning Python through projects
+## Learning Python through projects
  <img align="left" src="/images/GW-python-logo-v1.png" alt="GW Python Logo"
 	title="GW Python Logo" width="200" height="198" />
   
@@ -39,7 +39,7 @@ It means that the authors of all the materials available here give everyone in t
 # GW Project Partners
 - GW Data Club
 - SEAS Innovation Center
-- <a href="https://gwu.edu/" target="_blank">GSEHD</a>
+- GSEHD
 - SEAS 
 - B-School Career Center
 - Innovation & Entrepreneurship Lab
