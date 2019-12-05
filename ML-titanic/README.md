@@ -1,9 +1,8 @@
-More information to come soon.
+# Start Here!
 
+Launch an interactive session with the course's Jupyter notebooks using the free Binder service. Try it!
 
-You can also launch an interactive session with the course's Jupyter notebooks using the free Binder service. Try it!
-
-INSERT LINK - launch in binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gwu-libraries/python-learning-examples/master?filepath=%2FML-titanic%2FML-titanic-v1.ipynb)
 
 After Binder launches, you should see a Jupyter Notebook file for this module.
 
