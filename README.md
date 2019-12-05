@@ -33,6 +33,10 @@ This use of Juptyer Notebooks is based on Prof. Barba's course [Getting Data Off
 # What is Jupyter?
 Jupyter is a set of open-source tools for interactive computing. At the center of the Jupyter world is the Notebook: a document that combines text and multi-media content with executable code. It is a powerful platform to learn computing because it lets you chunk a program into small, digestible portions, and intermix these with narration and explanation. It is also becoming the staple environment to develop ideas and present finished analyses in data science and engineering.
 
+For the Python project tutorials, you can simply launch the associated Jupyter Notebooks using the free Binder service and work through the tutorials. Each tutorial has a Binder link in the README file. 
+
+At GW, we are also fortunate to have a Jupyter Hub (portal) available to all students and faculty. You can use your account on the Jupyter Hub to write code. You can also download any of the Python project tutorials to work further.  You can access it at [Jupyter Hub](https://go.gwu.edu/jhub).
+
 # What does it mean that the course materials are open?
 It means that the authors of all the materials available here give everyone in the world a license to use the material in any way, to redistribute, modify and essentially do whatever they like with it. The only condition is that we are given attribution. Content is under a Creative Commons CC-BY 4.0 International license and code is under a BSD 3-clause license.
 
