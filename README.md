@@ -47,3 +47,14 @@ It means that the authors of all the materials available here give everyone in t
 - Our peer instructors (coming in January 2020).
 
 
+Markdown:
+[JP Markdown](https://wordpress.org/plugins/jetpack-markdown){.target-blank .rel-nofollow}
+
+JavaScript (just before the closing </body> tag):
+<script>
+jQuery('.target-blank').attr('target', '_blank').removeClass('target-blank').filter('[title=""]').removeAttr('title').filter('[class=""]').removeAttr('class');
+jQuery('.rel-nofollow').attr('rel', 'nofollow').removeClass('rel-nofollow').filter('[title=""]').removeAttr('title').filter('[class=""]').removeAttr('class');
+</script>
+
+Post-jQuery HTML:
+<a href="https://wordpress.org/plugins/jetpack-markdown" target="_blank" rel="nofollow">JP Markdown</a>
