@@ -1,5 +1,5 @@
 # Start Here!
- <img align="left" src="/images/GW-python-logo-v1.png" alt="GW Python Logo"
+ <img align="left" src="/images/Python%20Logo%20Student%20Powered.jpg" alt="GW Python Logo"
 	title="GW Python Logo" width="200" height="198" />
 Launch an interactive session with the course's Jupyter notebooks using the free Binder service. Try it!
 
