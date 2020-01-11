@@ -1,5 +1,5 @@
 # Start Here
- <img align="left" src="/images/GW-python-logo-v1.png" alt="GW Python Logo"
+ <img align="left" src="/images/Python%20Logo%20Student%20Powered.jpg" alt="GW Python Logo"
 	title="GW Python Logo" width="200" height="198" />
 Launch the interactive version of the Webscraper project using Binder. Binder is a free tool for hosting interactive Jupyter Notebooks and it is a great way for students to get started with learning Python.
 
