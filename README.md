@@ -48,6 +48,6 @@ It means that the authors of all the materials available here give everyone in t
 - B-School Career Center
 - Innovation & Entrepreneurship Lab
 - GW Libraries and Academic Innovation
-- Our peer instructors (coming in January 2020).
+- Our peer instructors (coming in January 2020). 
 
 
