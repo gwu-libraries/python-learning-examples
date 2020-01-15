@@ -1,5 +1,5 @@
 
-# GW_Python():
+# GW_coding():
 ### Learning Python through projects
  <img align="left" src="/images/Python%20Logo%20Student%20Powered.jpg" alt="GW Python Logo"
 	title="GW Python Logo" width="200" height="198" />
