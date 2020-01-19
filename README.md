@@ -29,6 +29,7 @@ This use of Juptyer Notebooks is based on Prof. Barba's course [Getting Data Off
 | [ML-titanic](https://github.com/gwu-libraries/python-learning-examples/tree/master/ML-titanic)  | Machine learning with titanic survivors      | Beginner |
 | [Webscraper](https://github.com/gwu-libraries/python-learning-examples/tree/master/Webscraper)    | Scrape a website to collect data      | Beginner |
 | [social-network-analysis-actors](https://github.com/gwu-libraries/python-learning-examples/tree/master/social-network-analysis-actors)     | Explore the relationships among actors | Beginner |
+| [geomap-voting](https://github.com/gwu-libraries/python-learning-examples/tree/master/geomap-voting)     | Map voting by geographic area | Beginner |
 
 # What is Jupyter?
 Jupyter is a set of open-source tools for interactive computing. At the center of the Jupyter world is the Notebook: a document that combines text and multi-media content with executable code. It is a powerful platform to learn computing because it lets you chunk a program into small, digestible portions, and intermix these with narration and explanation. It is also becoming the staple environment to develop ideas and present finished analyses in data science and engineering.
