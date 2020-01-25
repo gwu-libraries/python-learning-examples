@@ -19,7 +19,7 @@ The modules have been developed to provide peer instructors with practical conte
 	
 If you are interested in becoming a peer instructor and helping your friends learn Python, let us know and you can attend a short training on how to use the modules as the foundation for peer tutorials. You can lead a peer-instruction event whenever you want, and where ever you want. If you could use a place (for example, at the library or the GW Innovation & Entrepeneurship Lab) just contact us (*email coming soon*)
 
-# Getting Started with Python
+# Getting Started with Python Modules
 This use of Juptyer Notebooks is based on Prof. Barba's course [Getting Data Off the Ground with Python](https://openedx.seas.gwu.edu/courses/course-v1:GW+EngComp1+2018/about).  And her [introductory modules (especialy 1 thru 3)](https://github.com/engineersCode/EngComp1_offtheground/tree/master/notebooks_en) are a great starting place for students who have not used Python at all.  They start out with writing your first lines of code and take you to the point where you can import short fragments of text to learn about strings.  With those foundations, any student should be ready for the beginner modules included in this repository.
 
 # Project-based Modules
@@ -30,6 +30,8 @@ This use of Juptyer Notebooks is based on Prof. Barba's course [Getting Data Off
 | [Webscraper](https://github.com/gwu-libraries/python-learning-examples/tree/master/Webscraper)    | Scrape a website to collect data      | Beginner |
 | [social-network-analysis-actors](https://github.com/gwu-libraries/python-learning-examples/tree/master/social-network-analysis-actors)     | Explore the relationships among actors | Beginner |
 | [geomap-voting](https://github.com/gwu-libraries/python-learning-examples/tree/master/geomap-voting)     | Map voting by geographic area | Beginner |
+
+More modules coming soon, including projects for using Python in areas of urban sustainability, marketing, economics, psychology, criminology, the humanities, and other applications. If you have ideas for applied projects that you would like to help us development, just send us a note.
 
 # What is Jupyter?
 Jupyter is a set of open-source tools for interactive computing. At the center of the Jupyter world is the Notebook: a document that combines text and multi-media content with executable code. It is a powerful platform to learn computing because it lets you chunk a program into small, digestible portions, and intermix these with narration and explanation. It is also becoming the staple environment to develop ideas and present finished analyses in data science and engineering.
