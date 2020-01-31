@@ -33,7 +33,114 @@ This use of Juptyer Notebooks is based on Prof. Barba's course [Getting Data Off
 | [social-network-analysis-actors](https://github.com/gwu-libraries/python-learning-examples/tree/master/social-network-analysis-actors)     | Explore the relationships among actors | Beginner |
 | [geomap-voting](https://github.com/gwu-libraries/python-learning-examples/tree/master/geomap-voting)     | Map voting by geographic area | Beginner |
 
-More modules coming soon, including projects for using Python in areas of urban sustainability, marketing, economics, psychology, criminology, the humanities, and other applications. If you have ideas for applied projects that you would like to help us development, just send us a note.
+More modules coming soon, including projects for using Python in areas of urban sustainability, marketing, economics, psychology, criminology, the humanities, and other applications.  Here are a few ideas we considering. If you have ideas for applied projects that you would like to help us development, just send us a note.
+
+<table>
+  <tr>
+   <td><strong>Discipline/Field</strong>
+   </td>
+   <td><strong>Possible Coding Projects</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>Psychology
+   </td>
+   <td>Social network analysis
+<p>
+Analyzing EEG data
+<p>
+Building experiments
+<p>
+Building a chatbot
+<p>
+Statistics
+   </td>
+  </tr>
+  <tr>
+   <td>History
+   </td>
+   <td>Webscraping
+<p>
+ML of historical data
+<p>
+Semantic analysis
+   </td>
+  </tr>
+  <tr>
+   <td>Business
+   </td>
+   <td>Market basket analysis
+<p>
+Automating business tasks
+<p>
+Creating financial models
+<p>
+Getting data from an API
+<p>
+Making websites
+<p>
+Social network analysis
+<p>
+Data mining
+   </td>
+  </tr>
+  <tr>
+   <td>World Languages
+   </td>
+   <td>Webscraping
+<p>
+Semantic analysis
+<p>
+ML of texts
+<p>
+Identifying n-grams
+   </td>
+  </tr>
+  <tr>
+   <td>Biology
+   </td>
+   <td>ML to make predictions based on data
+<p>
+Statistics
+<p>
+Data mining
+   </td>
+  </tr>
+  <tr>
+   <td>Political Science
+   </td>
+   <td>Data visualization
+<p>
+GIS data visualization
+<p>
+Getting data from an API
+   </td>
+  </tr>
+  <tr>
+   <td>Urban Planning
+   </td>
+   <td>Predicting energy scores
+<p>
+Geocoding publicly available data
+<p>
+Getting data from an API
+   </td>
+  </tr>
+  <tr>
+   <td>Economics
+   </td>
+   <td>Data mining
+<p>
+Income predictions
+<p>
+Statistics
+<p>
+Getting data from an API
+   </td>
+  </tr>
+</table>
+
+
 
 # What is Jupyter?
 Jupyter is a set of open-source tools for interactive computing. At the center of the Jupyter world is the Notebook: a document that combines text and multi-media content with executable code. It is a powerful platform to learn computing because it lets you chunk a program into small, digestible portions, and intermix these with narration and explanation. It is also becoming the staple environment to develop ideas and present finished analyses in data science and engineering.
