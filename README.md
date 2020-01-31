@@ -33,7 +33,7 @@ This use of Juptyer Notebooks is based on Prof. Barba's course [Getting Data Off
 | [social-network-analysis-actors](https://github.com/gwu-libraries/python-learning-examples/tree/master/social-network-analysis-actors)     | Explore the relationships among actors | Beginner |
 | [geomap-voting](https://github.com/gwu-libraries/python-learning-examples/tree/master/geomap-voting)     | Map voting by geographic area | Beginner |
 
-More modules coming soon, including projects for using Python in areas of urban sustainability, marketing, economics, psychology, criminology, the humanities, and other applications.  Here are a few ideas we considering. If you have ideas for applied projects that you would like to help us development, just send us a note.
+More modules/scrips will coming soon.  Below are a few ideas we considering. If you have ideas for applied projects that you would like to help us develop, just send us a <a href="mailto:rwatkins@gwu.edu">note</a>.
 
 <table>
   <tr>
