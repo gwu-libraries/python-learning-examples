@@ -45,97 +45,153 @@ More modules coming soon, including projects for using Python in areas of urban 
   <tr>
    <td>Psychology
    </td>
-   <td>Social network analysis
-<p>
-Analyzing EEG data
-<p>
-Building experiments
-<p>
-Building a chatbot
-<p>
-Statistics
+   <td>
+<ul>
+
+<li>Social network analysis (<a href="https://github.com/ericmjl/Network-Analysis-Made-Simple">example</a>)
+
+<li>Analyzing EEG data
+
+<li>Building experiments (<a href="https://blog.efpsa.org/2016/07/12/python-programming-in-psychology-from-data-collection-to-analysis/">example</a>)
+
+<li>Building a chatbot  (<a href="https://www.simplifiedpython.net/python-chatbot/">example</a>)
+
+<li>Statistics
+</li>
+</ul>
    </td>
   </tr>
   <tr>
    <td>History
    </td>
-   <td>Webscraping
-<p>
-ML of historical data
-<p>
-Semantic analysis
+   <td>
+<ul>
+
+<li>Webscraping
+
+<li>ML of historical data
+
+<li>Sentiment analysis (<a href="https://www.analyticsvidhya.com/blog/2016/02/step-step-guide-building-sentiment-analysis-model-graphlab/">example</a>)
+
+<li>Data visualization (<a href="https://programminghistorian.org/en/lessons/visualizing-with-bokeh">example</a>)
+</li>
+</ul>
    </td>
   </tr>
   <tr>
    <td>Business
    </td>
-   <td>Market basket analysis
-<p>
-Automating business tasks
-<p>
-Creating financial models
-<p>
-Getting data from an API
-<p>
-Making websites
-<p>
-Social network analysis
-<p>
-Data mining
+   <td>
+<ul>
+
+<li>Market basket analysis (<a href="https://pbpython.com/market-basket-analysis.html">example</a>)
+
+<li>Automating business tasks (<a href="https://pbpython.com/papermil-rclone-report-1.html">example</a>)
+
+<li>Creating financial models (<a href="https://pbpython.com/amortization-model.html">example</a>)
+
+<li>Getting data from an API (<a href="https://github.com/LibraryOfCongress/data-exploration/blob/master/ChronAm%20API%20Samples.ipynb">example</a>)
+
+<li>Making websites (<a href="https://pythonspot.com/flask-web-app-with-python/">example</a>)
+
+<li>Social network analysis (<a href="https://github.com/baguy/influenciometer/blob/master/.ipynb_checkpoints/Projeto%20Tcc%20Influenciometro-checkpoint.ipynb">example</a>)
+
+<li>Data mining (<a href="https://programminghistorian.org/en/lessons/text-mining-with-extracted-features">example</a>)
+
+<li>Webscraping job sites (<a href="https://blog.floydhub.com/web-scraping-with-python/">example</a>)
+</li>
+</ul>
    </td>
   </tr>
   <tr>
    <td>World Languages
    </td>
-   <td>Webscraping
-<p>
-Semantic analysis
-<p>
-ML of texts
-<p>
-Identifying n-grams
+   <td>
+<ul>
+
+<li>Webscraping (<a href="https://divybramhecha.tech/web-scrapping-with-beautiful-soup-part-1a/">example</a>)
+
+<li>Sentiment analysis
+
+<li>ML of texts
+
+<li>Identifying n-grams (<a href="https://programminghistorian.org/en/lessons/keywords-in-context-using-n-grams">example</a>)
+
+<li>Word frequencies (<a href="https://github.com/luonglearnstocode/Python4Research/tree/master/Case%20Study%202%20-%20Language%20Processing">example</a>)
+
+<li>Processing string/text data (<a href="https://github.com/elliewix/humanities-python-tour">example</a>)
+</li>
+</ul>
    </td>
   </tr>
   <tr>
    <td>Biology
    </td>
-   <td>ML to make predictions based on data
-<p>
-Statistics
-<p>
-Data mining
+   <td>
+<ul>
+
+<li>ML to make predictions based on data (<a href="https://machinelearningmastery.com/machine-learning-in-python-step-by-step/">example</a>)
+
+<li>Statistics
+
+<li>Data mining (<a href="https://programminghistorian.org/en/lessons/text-mining-with-extracted-features">example</a>)
+
+<li>Plotting data (<a href="https://github.com/luonglearnstocode/Python4Research/tree/master/Case%20Study%205%20-%20Bird%20Migration">example</a>)
+</li>
+</ul>
    </td>
   </tr>
   <tr>
    <td>Political Science
    </td>
-   <td>Data visualization
-<p>
-GIS data visualization
-<p>
-Getting data from an API
+   <td>
+<ul>
+
+<li>Data visualization (<a href="https://docs.google.com/document/d/1bK-LYG6yflLPVmO6BsvCvdtPNkkHvkhbTVuQ1n5zako/edit">example</a>)
+
+<li>GIS data visualization
+
+<li>Getting data from an API (<a href="https://github.com/LibraryOfCongress/data-exploration/blob/master/ChronAm%20API%20Samples.ipynb">example</a>)
+
+<li>Webscraping (<a href="https://www.learndatasci.com/tutorials/ultimate-guide-web-scraping-w-python-requests-and-beautifulsoup/">example</a>)
+</li>
+</ul>
    </td>
   </tr>
   <tr>
    <td>Urban Planning
    </td>
-   <td>Predicting energy scores
-<p>
-Geocoding publicly available data
-<p>
-Getting data from an API
+   <td>
+<ul>
+
+<li>Predicting energy scores (<a href="https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-one-c62152f39420">example</a>)
+
+<li>Geocoding publicly available data (<a href="https://programminghistorian.org/en/lessons/mapping-with-python-leaflet">example</a>)
+
+<li>Getting data from an API (<a href="https://github.com/LibraryOfCongress/data-exploration/blob/master/ChronAm%20API%20Samples.ipynb">example</a>)
+</li>
+</ul>
    </td>
   </tr>
   <tr>
    <td>Economics
    </td>
-   <td>Data mining
-<p>
-Income predictions
-<p>
-Statistics
-<p>
-Getting data from an API
+   <td>
+<ul>
+
+<li>Data mining (<a href="https://programminghistorian.org/en/lessons/text-mining-with-extracted-features">example</a>)
+
+<li>Income predictions (<a href="https://medium.com/@umagunturi789/adult-income-prediction-using-python-1d716f700b4e">example</a>)
+
+<li>Statistics
+
+<li>Getting data from an API (<a href="https://github.com/LibraryOfCongress/data-exploration/blob/master/ChronAm%20API%20Samples.ipynb">example</a>)
+
+<li>Data visualization (<a href="https://docs.google.com/document/d/1bK-LYG6yflLPVmO6BsvCvdtPNkkHvkhbTVuQ1n5zako/edit">example</a>)
+
+<li>Webscraping salary data (<a href="https://towardsdatascience.com/web-scraping-regular-expressions-and-data-visualization-doing-it-all-in-python-37a1aade7924">example</a>)
+</li>
+</ul>
    </td>
   </tr>
 </table>
