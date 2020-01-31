@@ -24,6 +24,8 @@ This use of Juptyer Notebooks is based on Prof. Barba's course [Getting Data Off
 
 # Project-based Modules/Scripts
 
+The project-based modules/scripts are resources for peer instructors who want to either "live code" with peers (e.g., you code from the "script" on a screen as the learners write the code on their computers) or as tutorials that you work through together. You and the learners can use the [GW Juptyer Hub](https://go.gwu.edu/jhub) to code without having to download or set up any software.
+
 | Directory  | Topic       | Level |
 | :-----------: | :-----------------: | :-----------------: |
 | [Off the Ground with Python](https://openedx.seas.gwu.edu/courses/course-v1:GW+EngComp1+2018/about)  | Python Basics | Beginner |
