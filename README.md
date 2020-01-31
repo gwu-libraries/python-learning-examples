@@ -26,6 +26,8 @@ This use of Juptyer Notebooks is based on Prof. Barba's course [Getting Data Off
 
 | Directory  | Topic       | Level |
 | :-----------: | :-----------------: | :-----------------: |
+| [Off the Ground with Python](https://openedx.seas.gwu.edu/courses/course-v1:GW+EngComp1+2018/about)  | Python Basics | Beginner |
+| [Intro to Stats with Python](https://openedx.seas.gwu.edu/courses/course-v1:GW+EngComp2+2018/about)  | Take off with Stats in Python | Beginner |
 | [ML-titanic](https://github.com/gwu-libraries/python-learning-examples/tree/master/ML-titanic)  | Machine learning with titanic survivors      | Beginner |
 | [Webscraper](https://github.com/gwu-libraries/python-learning-examples/tree/master/Webscraper)    | Scrape a website to collect data      | Beginner |
 | [social-network-analysis-actors](https://github.com/gwu-libraries/python-learning-examples/tree/master/social-network-analysis-actors)     | Explore the relationships among actors | Beginner |
