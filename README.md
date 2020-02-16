@@ -19,7 +19,7 @@ The modules have been developed to provide peer instructors with practical conte
 	
 If you are interested in becoming a peer instructor and helping your friends learn Python, let us know and you can attend a short training on how to use the modules as the foundation for peer tutorials. You can lead a peer-instruction event whenever you want, and where ever you want. If you could use a place (for example, at the library or the GW Innovation & Entrepeneurship Lab) just contact us (*email coming soon*)
 
-<divfigure><img src="https://github.com/gwu-libraries/python-learning-examples/blob/master/images/peer-instructor-prep-v1.png" alt="GW Python Peer Prep v1"
+<divfigure><img src="https://github.com/gwu-libraries/python-learning-examples/blob/master/images/peer-instructor-prep-v2.png" alt="GW Python Peer Prep v1"
 	title="GW Python Peer Prep v1" width="650" height="300" /></div>
 	
 
