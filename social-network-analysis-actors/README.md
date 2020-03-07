@@ -3,7 +3,7 @@
 	title="GW Python Logo" width="200" height="198" />
 Launch the interactive version of the Webscraper project using Binder. Binder is a free tool for hosting interactive Jupyter Notebooks and it is a great way for students to get started with learning Python.
 
-[![Binder](https://mybinder.org/v2/gh/gwu-libraries/python-learning-examples/master?filepath=social-network-analysis-actors%2F)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gwu-libraries/python-learning-examples/master?filepath=social-network-analysis-actors%2Fsocial-network-analysis-actors-v2.ipynb)
 
 
 After Binder launches, you should see a Jupyter Notebook file for this module.
