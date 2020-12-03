@@ -63,7 +63,9 @@ More modules/scrips will coming soon.  Below are a few ideas we considering. If 
 <li>Building experiments (<a href="https://blog.efpsa.org/2016/07/12/python-programming-in-psychology-from-data-collection-to-analysis/">example</a>)
 
 <li>Building a chatbot  (<a href="https://www.simplifiedpython.net/python-chatbot/">example</a>)
-
+	
+	
+<li>mTurk (or Prolific) for getting survey responses  (<a href="https://blog.mturk.com/getting-started-with-surveys-on-mturk-e2eea524c73">example</a>)
 <li>Statistics
 </li>
 </ul>
@@ -97,6 +99,8 @@ More modules/scrips will coming soon.  Below are a few ideas we considering. If 
 <li>Automating business tasks (<a href="https://pbpython.com/papermil-rclone-report-1.html">example</a>)
 
 <li>Creating financial models (<a href="https://pbpython.com/amortization-model.html">example</a>)
+	
+<li>mTurk for gathering marketing data (<a href="https://blog.mturk.com/tutorial-gathering-data-with-mturk-781ee85a6db">example</a>)	
 
 <li>Getting data from an API (<a href="https://github.com/LibraryOfCongress/data-exploration/blob/master/ChronAm%20API%20Samples.ipynb">example</a>)
 
