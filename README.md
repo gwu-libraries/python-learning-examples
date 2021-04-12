@@ -167,6 +167,8 @@ More modules/scrips will coming soon.  Below are a few ideas we considering. If 
 
 <li>Webscraping (<a href="https://www.learndatasci.com/tutorials/ultimate-guide-web-scraping-w-python-requests-and-beautifulsoup/">example</a>)
 </li>
+<li>Webscraping the Congressional Record newspaper (<a href="https://towardsdatascience.com/political-python-1e8eb46c1bc1">example</a>)
+	</li>
 </ul>
    </td>
   </tr>
