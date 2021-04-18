@@ -122,6 +122,8 @@ More modules/scrips will coming soon.  Below are a few ideas we considering. If 
 <ul>
 
 <li>Webscraping (<a href="https://divybramhecha.tech/web-scrapping-with-beautiful-soup-part-1a/">example</a>)
+<li>Intertextuality Detection (<a href="https://www.youtube.com/watch?v=fdyFgtgBe9s&t=697s">example</a>)	
+	
 
 <li>Sentiment analysis
 
