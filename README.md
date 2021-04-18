@@ -160,6 +160,8 @@ More modules/scrips will coming soon.  Below are a few ideas we considering. If 
 <ul>
 
 <li>Data visualization (<a href="https://docs.google.com/document/d/1bK-LYG6yflLPVmO6BsvCvdtPNkkHvkhbTVuQ1n5zako/edit">example</a>)
+<li>Social network analysis of people  in text (<a href="https://www.youtube.com/watch?v=AmkvojRc8Fs">example</a>)	
+	
 
 <li>GIS data visualization
 
