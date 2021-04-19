@@ -191,6 +191,8 @@ More modules/scrips will coming soon.  Below are a few ideas we considering. If 
 <li>Geocoding publicly available data (<a href="https://programminghistorian.org/en/lessons/mapping-with-python-leaflet">example</a>)
 
 <li>Getting data from an API (<a href="https://github.com/LibraryOfCongress/data-exploration/blob/master/ChronAm%20API%20Samples.ipynb">example</a>)
+<li>Social Network Analysis to analyze communities (<a href="https://deepnote.com/@deepnote/An-Introduction-to-Social-Network-Analysis-with-NetworkX-Two-Factions-of-a-Karate-Club-w4wQvz-rTpeKZpx8DrlyrQ">example</a>)	
+	
 </li>
 </ul>
    </td>
