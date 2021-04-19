@@ -95,6 +95,8 @@ More modules/scrips will coming soon.  Below are a few ideas we considering. If 
 <ul>
 
 <li>Market basket analysis (<a href="https://pbpython.com/market-basket-analysis.html">example</a>)
+<li>Monte Carlo Sim for Sales Commissions (<a href="https://pbpython.com/monte-carlo.html">example</a>)	
+	
 
 <li>Automating business tasks (<a href="https://pbpython.com/papermil-rclone-report-1.html">example</a>)
 
@@ -166,6 +168,8 @@ More modules/scrips will coming soon.  Below are a few ideas we considering. If 
 	
 
 <li>GIS data visualization
+<li>Very basic voting system (<a href="https://www.youtube.com/watch?v=s9K0oqm1Xy0">example</a>)	
+	
 
 <li>Getting data from an API (<a href="https://github.com/LibraryOfCongress/data-exploration/blob/master/ChronAm%20API%20Samples.ipynb">example</a>)
 
