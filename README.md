@@ -84,6 +84,13 @@ More modules/scrips will coming soon.  Below are a few ideas we considering. If 
 <li>Sentiment analysis (<a href="https://www.analyticsvidhya.com/blog/2016/02/step-step-guide-building-sentiment-analysis-model-graphlab/">example</a>)
 
 <li>Data visualization (<a href="https://programminghistorian.org/en/lessons/visualizing-with-bokeh">example</a>)
+	
+	
+	
+<li>ML Analysis of Video (<a href="https://www.analyticsvidhya.com/blog/2018/09/deep-learning-video-classification-python/">example</a>)
+	
+	
+	
 </li>
 </ul>
    </td>
