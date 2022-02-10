@@ -222,6 +222,8 @@ More modules/scrips will coming soon.  Below are a few ideas we considering. If 
 
 <li>Webscraping salary data (<a href="https://towardsdatascience.com/web-scraping-regular-expressions-and-data-visualization-doing-it-all-in-python-37a1aade7924">example</a>)
 </li>
+	<li>Simple blockchain in JS (<a href="https://www.youtube.com/watch?v=zVqczFZr124">example</a>)
+</li>
 </ul>
    </td>
   </tr>
